@@ -1,0 +1,21 @@
+.container {
+  width: 100%;
+  height: fit-content;
+  padding: 0 1rem;
+  margin: 2rem 0 3rem 0;
+}
+
+.container table {
+  /* padding: 0 0.5rem; */
+  width: 100%;
+  border: 1px solid #DCE0E5;
+  border-radius: 5px;
+}
+
+.tableHeader {
+  background-color: #f0f0f0;
+}
+.container td {
+  border: 2px solid #DCE0E5;
+  padding-left: 0.8rem;
+}
